@@ -1,0 +1,6 @@
+### `requirements.txt`
+
+# Required dependencies for the SmartTrack project
+
+requests==2.26.0
+python-dotenv==0.19.2
