@@ -5,3 +5,4 @@ def analyze_contracts():
     print("Analyzing contract data...")
     # For example: Fetching transaction volume, gas usage, etc.
     # Generate reports or visualizations
+#
