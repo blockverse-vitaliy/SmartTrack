@@ -37,15 +37,15 @@ python main.py analyze
 
 You can configure your settings (API keys, etc.) in the .env file.
 
-Configuration
+Configuration:
 
-You will need to set up the following in your .env file:
+ - You will need to set up the following in your .env file:
 
 ```
 ETHERSCAN_API_KEY=your_etherscan_api_key_here
 ```
 
-Replace your_etherscan_api_key_here with your actual Etherscan API key.
+ - Replace your_etherscan_api_key_here with your actual Etherscan API key.
 
 ---
 
